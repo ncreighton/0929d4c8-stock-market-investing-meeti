@@ -1,2 +1,28 @@
-# 0929d4c8-stock-market-investing-meeti
-Structured meeting agendas, action items, decision history, and follow-up automation. Eliminates meeting chaos and lost decisions.
+# Stock Market & Investing Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq6oH26H7Eo4pqcDWcZe0R)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq6oH26H7Eo4pqcDWcZe0R)
+
